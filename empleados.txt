@@ -1,0 +1,30 @@
+ID:LON123
+DNI:65478912Y
+Nombre:Laura
+Apellidos:García
+Seguridad Social:456123789
+Fecha de Nacimiento:17/09/88
+ID:MIA987
+DNI:56781234X
+Nombre:Juan
+Apellidos:Pérez
+Seguridad Social:987654321
+Fecha de Nacimiento:02/05/90
+ID:NYC789
+DNI:34567891A
+Nombre:María
+Apellidos:Rodríguez
+Seguridad Social:654321987
+Fecha de Nacimiento:25/03/94
+ID:PAR456
+DNI:78965432Z
+Nombre:Alberto
+Apellidos:Sánchez
+Seguridad Social:321987654
+Fecha de Nacimiento:08/12/76
+ID:VMX236
+DNI:12345678F
+Nombre:pedro
+Apellidos:martinez
+Seguridad Social:123456789
+Fecha de Nacimiento:25/11/54
